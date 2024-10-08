@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="stones">
+        <item>vehicle - car</item>
+        <item>vehicle - bus</item>
+        <item>vehicle - train</item>
+        <item>vehicle - boat</item>
+        <item>vehicle - truck</item>
+        <item>vehicle - van</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people over cargo. There are around one billion cars in use worldwide. The car is considered an essential part of the developed economy.</item>
+        <item>A bus (contracted from omnibus, with variants multibus, motorbus, autobus, etc.) is a motor vehicle that carries significantly more passengers than an average car or van, but less than the average rail transport.</item>
+        <item>A train (from Old French trahiner, from Latin trahere, "to pull, to draw") is a series of connected vehicles that run along a railway track and transport people or freight.</item>
+        <item>A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats.</item>
+        <item>A truck or lorry is a motor vehicle designed to transport freight, carry specialized payloads, or perform other utilitarian work. Trucks vary greatly in size, power, and configuration, but the vast majority feature body-on-frame construction, with a cabin that is independent of the payload portion of the vehicle.</item>
+        <item>A van is a type of road vehicle used for transporting goods or people. There is some variation in the scope of the word across the different English-speaking countries.</item>
+    </string-array>
+</resources>
