@@ -10,7 +10,7 @@ public class Vehicle
     }
     public String getName() {
         return name;
-    }
+    }//hey
 
     public int getImg() {
         return img;
